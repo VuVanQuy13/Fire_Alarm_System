@@ -113,12 +113,16 @@ The images are stored in the repository's `images` folder:
 
 ### Web interface
 
-![Web interface](images/Web.png)
+<img width="480" height="399" alt="Web" src="https://github.com/user-attachments/assets/c6cbab32-1202-4152-8819-d3242e184649" />
 
 ### Telegram notification
 
-![Telegram notification](images/telegram.jpg)
+<img width="480" height="1039" alt="telegram" src="https://github.com/user-attachments/assets/91193e59-4341-48b8-83e8-f0e004ef3ecc" />
 
-### Physical prototype
+### Altium
 
-![Physical prototype](images/Product.jpg)
+<img width="1108" height="760" alt="Altium" src="https://github.com/user-attachments/assets/f1e86b2e-9a0d-4e0c-80ce-b460b7c0abdd" />
+
+### Finished Product
+
+<img width="480" height="640" alt="Done" src="https://github.com/user-attachments/assets/6f17521b-4c9e-423d-9377-6f618b24d245" />
